@@ -5,6 +5,11 @@ parent: Begin
 nav_order: 4
 ---
 
+# Aux links for the upper right navigation
+aux_links:
+  "Just the Docs on GitHub":
+    - "//github.com/pmarsceill/just-the-docs"
+    
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/devstart77/dsPostgre/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
