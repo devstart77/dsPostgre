@@ -2,7 +2,7 @@
 layout: default
 title: index
 parent: Begin
-nav_order: 3
+nav_order: 4
 ---
 
 ## Welcome to GitHub Pages
